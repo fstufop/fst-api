@@ -1,0 +1,27 @@
+{
+  "name": "fst-api",
+  "version": "1.0.0",
+  "description": "Api for personal projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fstufop/fst-api.git"
+  },
+  "keywords": [
+    "api",
+    "swift",
+    "request"
+  ],
+  "author": "Filipe S Teodoro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fstufop/fst-api/issues"
+  },
+  "homepage": "https://github.com/fstufop/fst-api#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
